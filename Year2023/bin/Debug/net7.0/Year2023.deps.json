@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Year2023/1.0.0": {
+        "dependencies": {
+          "Optional": "5.0.0-alpha"
+        },
+        "runtime": {
+          "Year2023.dll": {}
+        }
+      },
+      "Optional/5.0.0-alpha": {
+        "runtime": {
+          "lib/netstandard2.0/Optional.dll": {
+            "assemblyVersion": "4.1.0.0",
+            "fileVersion": "4.1.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Year2023/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Optional/5.0.0-alpha": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-4CisAnzvD5FddKfDelDPNk+R+ZxrORue393+1p9ymaVCqW6lsmj/1b4tL2Fi+a0KVT0BRogEZwKUDm3PI2hwPw==",
+      "path": "optional/5.0.0-alpha",
+      "hashPath": "optional.5.0.0-alpha.nupkg.sha512"
+    }
+  }
+}

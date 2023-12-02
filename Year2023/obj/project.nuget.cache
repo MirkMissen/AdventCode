@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ni0IpFkjICLSv2jd5byiWHyrMjSoJ0yAZhHDC7MCSdqxrQyX6ozJCcovwtGYXVc3fItolENY/Xo9vsLRlnFEbA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\campe\\Documents\\AdventCode\\Year2023\\Year2023.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\campe\\.nuget\\packages\\optional\\5.0.0-alpha\\optional.5.0.0-alpha.nupkg.sha512"
+  ],
+  "logs": []
+}

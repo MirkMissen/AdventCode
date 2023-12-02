@@ -1,0 +1,108 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "Optional/5.0.0-alpha": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Optional.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Optional.dll": {
+            "related": ".xml"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Optional/5.0.0-alpha": {
+      "sha512": "4CisAnzvD5FddKfDelDPNk+R+ZxrORue393+1p9ymaVCqW6lsmj/1b4tL2Fi+a0KVT0BRogEZwKUDm3PI2hwPw==",
+      "type": "package",
+      "path": "optional/5.0.0-alpha",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net35/Optional.dll",
+        "lib/net35/Optional.xml",
+        "lib/net45/Optional.dll",
+        "lib/net45/Optional.xml",
+        "lib/netstandard1.0/Optional.dll",
+        "lib/netstandard1.0/Optional.xml",
+        "lib/netstandard2.0/Optional.dll",
+        "lib/netstandard2.0/Optional.xml",
+        "optional.5.0.0-alpha.nupkg.sha512",
+        "optional.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "Optional >= 5.0.0-alpha"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\campe\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\campe\\Documents\\AdventCode\\Year2023\\Year2023.csproj",
+      "projectName": "Year2023",
+      "projectPath": "C:\\Users\\campe\\Documents\\AdventCode\\Year2023\\Year2023.csproj",
+      "packagesPath": "C:\\Users\\campe\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\campe\\Documents\\AdventCode\\Year2023\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\campe\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "dependencies": {
+          "Optional": {
+            "target": "Package",
+            "version": "[5.0.0-alpha, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Users\\campe\\.dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\campe\\Documents\\AdventCode\\Year2023\\Year2023.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\campe\\Documents\\AdventCode\\Year2023\\Year2023.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\campe\\Documents\\AdventCode\\Year2023\\Year2023.csproj",
+        "projectName": "Year2023",
+        "projectPath": "C:\\Users\\campe\\Documents\\AdventCode\\Year2023\\Year2023.csproj",
+        "packagesPath": "C:\\Users\\campe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\campe\\Documents\\AdventCode\\Year2023\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\campe\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Optional": {
+              "target": "Package",
+              "version": "[5.0.0-alpha, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Users\\campe\\.dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
