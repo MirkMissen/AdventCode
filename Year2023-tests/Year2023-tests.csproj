@@ -30,9 +30,19 @@
       <None Update="December2\TestCase1.txt">
         <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       </None>
+      <None Update="December1\TestSample1.txt">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </None>
+      <None Update="December1\Task1Data.txt">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </None>
+      <None Update="December1\TestSample2.txt">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </None>
     </ItemGroup>
 
     <ItemGroup>
+      <ProjectReference Include="..\Extensions\Extensions.csproj" />
       <ProjectReference Include="..\Year2023\Year2023.csproj" />
     </ItemGroup>
 

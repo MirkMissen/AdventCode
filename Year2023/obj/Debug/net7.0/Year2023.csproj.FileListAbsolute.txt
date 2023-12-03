@@ -10,3 +10,6 @@ C:\Users\campe\Documents\AdventCode\Year2023\obj\Debug\net7.0\Year2023.dll
 C:\Users\campe\Documents\AdventCode\Year2023\obj\Debug\net7.0\refint\Year2023.dll
 C:\Users\campe\Documents\AdventCode\Year2023\obj\Debug\net7.0\Year2023.pdb
 C:\Users\campe\Documents\AdventCode\Year2023\obj\Debug\net7.0\ref\Year2023.dll
+C:\Users\campe\Documents\AdventCode\Year2023\bin\Debug\net7.0\Extensions.dll
+C:\Users\campe\Documents\AdventCode\Year2023\bin\Debug\net7.0\Extensions.pdb
+C:\Users\campe\Documents\AdventCode\Year2023\obj\Debug\net7.0\Year2023.csproj.CopyComplete

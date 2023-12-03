@@ -1726,10 +1726,21 @@
           "build/netcoreapp3.1/xunit.runner.visualstudio.props": {}
         }
       },
+      "Extensions/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Extensions.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Extensions.dll": {}
+        }
+      },
       "Year2023/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
+          "Extensions": "1.0.0",
           "Optional": "5.0.0-alpha"
         },
         "compile": {
@@ -5552,6 +5563,11 @@
         "xunit.runner.visualstudio.nuspec"
       ]
     },
+    "Extensions/1.0.0": {
+      "type": "project",
+      "path": "../Extensions/Extensions.csproj",
+      "msbuildProject": "../Extensions/Extensions.csproj"
+    },
     "Year2023/1.0.0": {
       "type": "project",
       "path": "../Year2023/Year2023.csproj",
@@ -5560,6 +5576,7 @@
   },
   "projectFileDependencyGroups": {
     "net7.0": [
+      "Extensions >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 17.5.0",
       "Year2023 >= 1.0.0",
       "coverlet.collector >= 3.2.0",
@@ -5592,6 +5609,9 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
+            "C:\\Users\\campe\\Documents\\AdventCode\\Extensions\\Extensions.csproj": {
+              "projectPath": "C:\\Users\\campe\\Documents\\AdventCode\\Extensions\\Extensions.csproj"
+            },
             "C:\\Users\\campe\\Documents\\AdventCode\\Year2023\\Year2023.csproj": {
               "projectPath": "C:\\Users\\campe\\Documents\\AdventCode\\Year2023\\Year2023.csproj"
             }

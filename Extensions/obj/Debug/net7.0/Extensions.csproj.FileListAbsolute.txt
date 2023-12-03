@@ -1,0 +1,12 @@
+C:\Users\campe\Documents\AdventCode\Extensions\bin\Debug\net7.0\Extensions.deps.json
+C:\Users\campe\Documents\AdventCode\Extensions\bin\Debug\net7.0\Extensions.dll
+C:\Users\campe\Documents\AdventCode\Extensions\bin\Debug\net7.0\Extensions.pdb
+C:\Users\campe\Documents\AdventCode\Extensions\obj\Debug\net7.0\Extensions.csproj.AssemblyReference.cache
+C:\Users\campe\Documents\AdventCode\Extensions\obj\Debug\net7.0\Extensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\campe\Documents\AdventCode\Extensions\obj\Debug\net7.0\Extensions.AssemblyInfoInputs.cache
+C:\Users\campe\Documents\AdventCode\Extensions\obj\Debug\net7.0\Extensions.AssemblyInfo.cs
+C:\Users\campe\Documents\AdventCode\Extensions\obj\Debug\net7.0\Extensions.csproj.CoreCompileInputs.cache
+C:\Users\campe\Documents\AdventCode\Extensions\obj\Debug\net7.0\Extensions.dll
+C:\Users\campe\Documents\AdventCode\Extensions\obj\Debug\net7.0\refint\Extensions.dll
+C:\Users\campe\Documents\AdventCode\Extensions\obj\Debug\net7.0\Extensions.pdb
+C:\Users\campe\Documents\AdventCode\Extensions\obj\Debug\net7.0\ref\Extensions.dll

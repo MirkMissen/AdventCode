@@ -36,6 +36,7 @@ public class CubeConundrumTests {
     [Fact]
     public void Calculate() {
 
+        // This is just a runner for the result...
         var setConfig = new SetConfiguration(12, 13, 14);
         var data = GameDataParser.ParseContent(DataFilePath);
 

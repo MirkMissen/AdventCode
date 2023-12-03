@@ -14,6 +14,16 @@
             "related": ".xml"
           }
         }
+      },
+      "Extensions/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Extensions.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Extensions.dll": {}
+        }
       }
     }
   },
@@ -36,10 +46,16 @@
         "optional.5.0.0-alpha.nupkg.sha512",
         "optional.nuspec"
       ]
+    },
+    "Extensions/1.0.0": {
+      "type": "project",
+      "path": "../Extensions/Extensions.csproj",
+      "msbuildProject": "../Extensions/Extensions.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
+      "Extensions >= 1.0.0",
       "Optional >= 5.0.0-alpha"
     ]
   },
@@ -67,7 +83,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\campe\\Documents\\AdventCode\\Extensions\\Extensions.csproj": {
+              "projectPath": "C:\\Users\\campe\\Documents\\AdventCode\\Extensions\\Extensions.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

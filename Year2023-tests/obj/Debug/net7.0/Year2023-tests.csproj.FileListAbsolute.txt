@@ -104,3 +104,8 @@ C:\Users\campe\Documents\AdventCode\Year2023-tests\obj\Debug\net7.0\Year2023-tes
 C:\Users\campe\Documents\AdventCode\Year2023-tests\obj\Debug\net7.0\ref\Year2023-tests.dll
 C:\Users\campe\Documents\AdventCode\Year2023-tests\bin\Debug\net7.0\Optional.dll
 C:\Users\campe\Documents\AdventCode\Year2023-tests\bin\Debug\net7.0\December2\TestCase1.txt
+C:\Users\campe\Documents\AdventCode\Year2023-tests\bin\Debug\net7.0\December1\TestSample1.txt
+C:\Users\campe\Documents\AdventCode\Year2023-tests\bin\Debug\net7.0\December1\Task1Data.txt
+C:\Users\campe\Documents\AdventCode\Year2023-tests\bin\Debug\net7.0\December1\TestSample2.txt
+C:\Users\campe\Documents\AdventCode\Year2023-tests\bin\Debug\net7.0\Extensions.dll
+C:\Users\campe\Documents\AdventCode\Year2023-tests\bin\Debug\net7.0\Extensions.pdb

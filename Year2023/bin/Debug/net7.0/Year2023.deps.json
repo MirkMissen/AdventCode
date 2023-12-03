@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v7.0": {
       "Year2023/1.0.0": {
         "dependencies": {
+          "Extensions": "1.0.0",
           "Optional": "5.0.0-alpha"
         },
         "runtime": {
@@ -20,6 +21,11 @@
             "assemblyVersion": "4.1.0.0",
             "fileVersion": "4.1.0.0"
           }
+        }
+      },
+      "Extensions/1.0.0": {
+        "runtime": {
+          "Extensions.dll": {}
         }
       }
     }
@@ -36,6 +42,11 @@
       "sha512": "sha512-4CisAnzvD5FddKfDelDPNk+R+ZxrORue393+1p9ymaVCqW6lsmj/1b4tL2Fi+a0KVT0BRogEZwKUDm3PI2hwPw==",
       "path": "optional/5.0.0-alpha",
       "hashPath": "optional.5.0.0-alpha.nupkg.sha512"
+    },
+    "Extensions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

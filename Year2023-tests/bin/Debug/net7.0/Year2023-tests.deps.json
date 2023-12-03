@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v7.0": {
       "Year2023-tests/1.0.0": {
         "dependencies": {
+          "Extensions": "1.0.0",
           "Microsoft.NET.Test.Sdk": "17.5.0",
           "Year2023": "1.0.0",
           "coverlet.collector": "3.2.0",
@@ -1029,8 +1030,14 @@
         }
       },
       "xunit.runner.visualstudio/2.4.5": {},
+      "Extensions/1.0.0": {
+        "runtime": {
+          "Extensions.dll": {}
+        }
+      },
       "Year2023/1.0.0": {
         "dependencies": {
+          "Extensions": "1.0.0",
           "Optional": "5.0.0-alpha"
         },
         "runtime": {
@@ -1674,6 +1681,11 @@
       "sha512": "sha512-OwHamvBdUKgqsXfBzWiCW/O98BTx81UKzx2bieIOQI7CZFE5NEQZGi8PBQGIKawDW96xeRffiNf20SjfC0x9hw==",
       "path": "xunit.runner.visualstudio/2.4.5",
       "hashPath": "xunit.runner.visualstudio.2.4.5.nupkg.sha512"
+    },
+    "Extensions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "Year2023/1.0.0": {
       "type": "project",
